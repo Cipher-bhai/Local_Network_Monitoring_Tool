@@ -1,0 +1,4 @@
+ts,rule,severity,detail,ip
+2026-03-15 21:16:07,high_latency,WARN,Gateway (127.0.0.1) RTT=524.5ms,127.0.0.1
+2026-03-15 21:12:59,high_latency,WARN,OpenDNS (208.67.222.222) RTT=701.9ms,208.67.222.222
+2026-03-15 21:10:24,high_latency,WARN,Google DNS (8.8.8.8) RTT=555.9ms,8.8.8.8

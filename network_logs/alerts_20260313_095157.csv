@@ -1,0 +1,4 @@
+ts,rule,severity,detail,ip
+2026-03-13 09:49:02,high_latency,WARN,OpenDNS (208.67.222.222) RTT=998.6ms,208.67.222.222
+2026-03-13 09:46:55,high_latency,WARN,OpenDNS (208.67.222.222) RTT=514.0ms,208.67.222.222
+2026-03-13 09:46:43,high_latency,WARN,OpenDNS (208.67.222.222) RTT=510.5ms,208.67.222.222

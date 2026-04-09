@@ -1,0 +1,14 @@
+# NetSentinel — Advanced Network Monitor
+# Install with: pip install -r requirements.txt
+ 
+# System & process monitoring (CPU, memory, network interfaces, bandwidth)
+psutil>=5.9.0
+ 
+# Excel report generation (.xlsx export with formatting)
+openpyxl>=3.1.0
+ 
+# ── STANDARD LIBRARY (no install needed) ──────────────────────────
+# threading, time, socket, subprocess, ipaddress, platform
+# json, csv, os, sys, datetime, collections
+# http.server (built-in API server)
+# urllib.parse
